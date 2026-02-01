@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es2019",
+        "module": "commonjs",
+        "checkJs": true, /* This enables type checking for all .js files */
+        "strict": true, /* Enables strictNullChecks, noImplicitAny, etc. */
+        "noImplicitAny": true, /* Errors if a variable/param has no type defined */
+        "alwaysStrict": true,
+        "moduleResolution": "node"
+    },
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}
